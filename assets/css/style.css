@@ -938,12 +938,18 @@ section {
 }
 #footer .copyright {
   text-align: center;
+  color: #040b14;
 }
+
+#bootstrapmade {
+  color: #040b14;
+}
+
 #footer .credits {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
-  color: #eaebf0;
+  color: #040b14;
 }
 @media (max-width: 1199px) {
   #footer {
